@@ -1,6 +1,6 @@
 import unittest
 
-from planet_pack.planet import *
+from task_2.planet import *
 
 
 class TestStringMethods(unittest.TestCase):
