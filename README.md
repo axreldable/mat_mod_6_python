@@ -1,2 +1,4 @@
 # mat_mod_6_python
-Math modeling home tasks. 6th semester CMC MSU
+Math modeling and probability theory home tasks. 
+
+6th semester CMC MSU
