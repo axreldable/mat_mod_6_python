@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-from task_2.planet import *
+from mat_mod.task_2.planet import *
 
 step = 0.01
 m1 = 1

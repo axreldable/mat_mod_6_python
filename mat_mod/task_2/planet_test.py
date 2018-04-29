@@ -1,6 +1,6 @@
 import unittest
 
-from task_2.planet import *
+from mat_mod.task_2.planet import *
 
 
 class TestStringMethods(unittest.TestCase):

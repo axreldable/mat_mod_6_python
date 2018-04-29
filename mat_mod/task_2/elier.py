@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
 from matplotlib.lines import Line2D
 
-from task_2.planet import *
+from mat_mod.task_2.planet import *
 
 step = 0.01
 m1 = 1

@@ -2,7 +2,7 @@ import math
 
 import numpy as np
 
-from task_3.progonka import method_progonki
+from mat_mod.task_3.progonka import method_progonki
 
 N = 10  # grid spacing
 mu1 = 0
