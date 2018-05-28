@@ -18,6 +18,9 @@ class Point:
     def multi(self, a):
         return Point(a * self.x, a * self.y)
 
+    def __str__(self):
+        return "(" + str(self.x) + "," + str(self.y) + ")"
+
 
 def distance(point_1, point_2):
     return math.pow(math.sqrt(math.pow(point_2.x - point_1.x, 2) + math.pow(point_2.y - point_1.y, 2)), 3)
