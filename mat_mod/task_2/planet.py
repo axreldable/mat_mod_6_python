@@ -2,7 +2,8 @@ import math
 
 
 class Point:
-    def __init__(self, x_v, y_v):
+    def __init__(self, id_v, x_v, y_v):
+        self.id = id_v
         self.x = x_v
         self.y = y_v
 
